@@ -1,0 +1,1 @@
+equipments:ball,bat,gloves,pads,bails,wickets,matt etc
